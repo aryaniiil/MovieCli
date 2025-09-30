@@ -15,6 +15,10 @@ The script first takes a search query from the command line to find the desired 
 -   Parallel segment downloading for faster speeds.
 -   Displays a progress bar for the download.
 
+## Todos
+-   Add vidsrc, hianime, embed.ru etc streaming services.
+-   Add subtitles features
+  
 ## Prerequisites
 
 Before you begin, ensure you have the following installed:
